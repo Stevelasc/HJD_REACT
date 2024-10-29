@@ -1,0 +1,10 @@
+
+body {
+  box-shadow: 0 0 0 8px #312d2d inset;
+  word-spacing: 2px;
+  padding: 30px;
+}
+h1 {
+  color: rgba(0, 0, 0, 0.842);
+  text-align: center;
+}
